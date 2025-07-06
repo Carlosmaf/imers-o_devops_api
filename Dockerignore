@@ -1,0 +1,9 @@
+# Ignorar o diretório do ambiente virtual
+venv/
+.venv/
+
+# Ignorar caches e arquivos compilados do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
